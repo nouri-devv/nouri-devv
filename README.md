@@ -31,5 +31,5 @@
 <a target="_blank" rel="noopener noreferrer" href="https://www.arduino.cc/" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/nouri02" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><a target="_blank" rel="noopener noreferrer" href="https://mnouri-dev.netlify.app" style="display: inline-block;"><img src="https://img.shields.io/website?url=https%3A%2F%2Fmnouri-dev.netlify.app%2F%23home
-" alt="linkedin" /></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://mnouri-dev.netlify.app" style="display: inline-block;"><img src="https://img.shields.io/website?url=https%3A%2F%2Fmnouri-dev.netlify.app%2F%23homestyle=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6
+" alt="Porfolio" /></a></p>
